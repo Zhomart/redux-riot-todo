@@ -1,3 +1,3 @@
-# redux-react-playground
+# redux-riot-playground
 
-Learning redux/react by watching https://egghead.io/series/getting-started-with-redux
+Learning redux/riot by watching https://egghead.io/series/getting-started-with-redux
