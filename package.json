@@ -19,6 +19,7 @@
     "babel-preset-es2015-riot": "^1.0.1",
     "babel-runtime": "^6.3.19",
     "deep-freeze": "0.0.1",
+    "expect": "^1.13.4",
     "jsdom": "^7.2.2",
     "mocha": "^2.3.4",
     "mocha-babel": "^3.0.0",
